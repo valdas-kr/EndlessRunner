@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "170749012944",
+    "firebase_url": "https://endlessrunnercoursework-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "endlessrunnercoursework",
+    "storage_bucket": "endlessrunnercoursework.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170749012944:android:fc215e6f1c97ed9ab1a7d5",
+        "android_client_info": {
+          "package_name": "com.ValdasKriunas.EndlessRunner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZmntrmZjnDgCWEZeZOKmlsmNhSL9__zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

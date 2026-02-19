@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Translations Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Translations
+  m_TableCollectionNameGuidString: 45ee7425ac7ce564e851c366cfd2de1f
+  m_Entries:
+  - m_Id: 9845215363072
+    m_Key: SampleScene/UI/GameOver/LevelSelectButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9810197118976
+    m_Key: SampleScene/UI/GameOver/RestartButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9877163376640
+    m_Key: SampleScene/UI/GameOver/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5300515012608
+    m_Key: SampleScene/UI/Menu/Leaderboards/LevelSelect/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5248274956288
+    m_Key: SampleScene/UI/Menu/Leaderboards/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5033786638336
+    m_Key: SampleScene/UI/Menu/LevelSelect/HelpText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4379378745344
+    m_Key: SampleScene/UI/Menu/LevelSelect/Leaderboards/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352539394048
+    m_Key: SampleScene/UI/Menu/LevelSelect/Main/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4314878738432
+    m_Key: SampleScene/UI/Menu/LevelSelect/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 932625547264
+    m_Key: SampleScene/UI/Menu/Main/LevelSelect/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1262494973952
+    m_Key: SampleScene/UI/Menu/Main/Play/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991186419712
+    m_Key: SampleScene/UI/Menu/Main/Profile/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808654503936
+    m_Key: SampleScene/UI/Menu/Main/Quit/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1052645556224
+    m_Key: SampleScene/UI/Menu/Main/Settings/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022618533888
+    m_Key: SampleScene/UI/Menu/Main/Shop/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6022790938624
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Login/EmailLoginInput/Text Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6428363358208
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Login/HelpText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6327553261568
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Login/LoginButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6059721785344
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Login/PasswordLoginInput/Text
+      Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6350466744320
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Login/RegisterButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7339554930688
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Register/ConfirmPasswordInput/Text
+      Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261058531328
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Register/EmailRegisterInput/Text
+      Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7466495541248
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Register/PasswordHelpText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7301328044032
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Register/PasswordRegisterInput/Text
+      Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7402666622976
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Register/RegisterProfileButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7219006439424
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Register/UsernameRegisterInput/Text
+      Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5383939719168
+    m_Key: SampleScene/UI/Menu/Profile/StartMenuButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5416495906816
+    m_Key: SampleScene/UI/Menu/Profile/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4070594084864
+    m_Key: SampleScene/UI/Menu/Settings/FullscreenToggle/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984715710464
+    m_Key: SampleScene/UI/Menu/Settings/JumpLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4140236308480
+    m_Key: SampleScene/UI/Menu/Settings/Main/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4003158065152
+    m_Key: SampleScene/UI/Menu/Settings/PauseLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3933893328896
+    m_Key: SampleScene/UI/Menu/Settings/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4191201296384
+    m_Key: SampleScene/UI/Menu/Shop/Main/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4222352392192
+    m_Key: SampleScene/UI/Menu/Shop/SelectLJ/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4259434233856
+    m_Key: SampleScene/UI/Menu/Shop/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9598443487232
+    m_Key: SampleScene/UI/Pause/EndGameButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9497662750720
+    m_Key: SampleScene/UI/Pause/ResumeButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9424384065536
+    m_Key: SampleScene/UI/Pause/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21669923028992
+    m_Key: SampleScene/UI/Menu/Settings/Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55802384646144
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/ResetButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55886530772992
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/SignOutButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55967996739584
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/User/UsernameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56048514793472
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/HighScore1/HighscoreText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56103317569536
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/HighScore2/HighscoreText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56149052260352
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/HighScore3/HighscoreText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56174557822976
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/Coins/CoinsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56266299834368
+    m_Key: SampleScene/UI/Menu/Profile/ContextPanel/Profile/User/UsernameInput/Text
+      Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407271306297344
+    m_Key: SampleScene/UI/Menu/Leaderboards/Text (TMP) (3)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1439532063948800
+    m_Key: SampleScene/UI/Menu/Shop/LJAbilityText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440051159400448
+    m_Key: SampleScene/UI/Menu/Shop/DJAbilityText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440104808742912
+    m_Key: SampleScene/UI/Menu/Shop/TPAbilityText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 874789550667858170
+  references:
+    version: 2
+    RefIds:
+    - rid: 874789550667858170
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1747908117463

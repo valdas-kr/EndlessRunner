@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Obstacle
+  - Coin
+  - Ground
+  - Destroy
+  - Others
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Coin
+  - Obstacle
+  - OtherObstacles
+  - PowerUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 832038601
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OtherObstacles
+    uniqueID: 1693020775
+    locked: 0
+  m_RenderingLayers:
+  - Default

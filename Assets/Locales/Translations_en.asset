@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Translations_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 45ee7425ac7ce564e851c366cfd2de1f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 808654503936
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 932625547264
+    m_Localized: Level Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991186419712
+    m_Localized: Player Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022618533888
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1052645556224
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1262494973952
+    m_Localized: Click to play!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3933893328896
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984715710464
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4003158065152
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4070594084864
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4140236308480
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4191201296384
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4222352392192
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4259434233856
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4314878738432
+    m_Localized: Level Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352539394048
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4379378745344
+    m_Localized: Leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5033786638336
+    m_Localized: Only logged in users can view leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5248274956288
+    m_Localized: Leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5300515012608
+    m_Localized: Level Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5383939719168
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5416495906816
+    m_Localized: Player Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6022790938624
+    m_Localized: Enter Email...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6059721785344
+    m_Localized: Enter Password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6327553261568
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6350466744320
+    m_Localized: Create Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6428363358208
+    m_Localized: Create account to view leaderboards and save progress!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7219006439424
+    m_Localized: Enter Username...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261058531328
+    m_Localized: Enter Email...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7301328044032
+    m_Localized: Enter Password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7339554930688
+    m_Localized: Repeat Password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7402666622976
+    m_Localized: Register Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7466495541248
+    m_Localized: 'Hint: Password Must Be At Least 8 Characters Long, Have One Number,
+      Lower & Upper Case Symbols'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9424384065536
+    m_Localized: Game Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9497662750720
+    m_Localized: Resume Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9598443487232
+    m_Localized: End Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9810197118976
+    m_Localized: Restart Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9845215363072
+    m_Localized: Level Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9877163376640
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21669923028992
+    m_Localized: "Character Graphics - Pixel Frog\nBackground Graphics - CPasteGame\nAdditional
+      Graphics - Goldmetal\nAdditional Graphics - Th\u1E53th\nIcons - MR POLY\nMusic
+      - Monsieur Fred\nAdditional Music - Chris Kohler\nSound Effects - Bright Shining
+      Star\nSound Effects - Dustyroom\nCoding, Game Design - Valdas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55802384646144
+    m_Localized: Delete Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55886530772992
+    m_Localized: Sign Out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55967996739584
+    m_Localized: Change Username
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56048514793472
+    m_Localized: 'Sandy Desert Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56103317569536
+    m_Localized: 'Dark Forest Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56149052260352
+    m_Localized: 'Pixel Mountain Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56174557822976
+    m_Localized: 'Coins Collected:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56266299834368
+    m_Localized: Enter New Username...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407271306297344
+    m_Localized: '#. Username - Score'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1439532063948800
+    m_Localized: 'Jumps: 1
+
+      Lifes: 3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440051159400448
+    m_Localized: 'Jumps: 2
+
+      Lifes: 2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440104808742912
+    m_Localized: 'Jumps: 3
+
+      Lifes: 1'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
